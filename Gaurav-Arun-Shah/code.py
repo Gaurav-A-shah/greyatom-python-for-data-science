@@ -1,4 +1,4 @@
-# --------------
+# student name database --------------
 # Code starts here
 
 class_1 = ['Geoffrey Hinton','Andrew Ng','Sebastian Raschka','Yoshua Bengio']
@@ -15,7 +15,7 @@ print(new_class)
 # Code ends here
 
 
-# --------------
+# students marksheet--------------
 # Code starts here
 courses = {
 'Math':65,
@@ -36,7 +36,7 @@ print(percentage)
 # Code ends here
 
 
-# --------------
+# Topper sortlist--------------
 # Code starts here
 mathematics =  {
 'Geoffrey Hinton':78,
@@ -55,7 +55,7 @@ print('topper: ',topper)
 # Code ends here  
 
 
-# --------------
+# certification--------------
 # Given string
 topper = 'andrew ng'
 
